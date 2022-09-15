@@ -1,22 +1,18 @@
 <h1 align="center">Physikalisches Praktikum B1</h1>
-<p align="center">
-  <img src="UniBT_Logo.jpeg" width = 50/>
-</p>
-
 
 ## Einleitung
 Dieses Repository enthält mehrere Auswertung und Daten zu den Versuchen im Bachelor Physik an der Universität Bayreuth in Rahmen des Physikalischen Praktikums B1 geführt von ``Dr. Wolfgang Schöpf``.
 
 Die Auswertungen dienen zur **Hilfe** und sollen nicht die Eigenleistung erleichtern. Deswegen weise ich darauf hin selbst Arbeit in **seine** Auswertungen zu stecken und die Fragen zur Vorbereitung **gewissenhaft** zu erledigen, da sie **notwendig** sind für das Verständnis zum jeweiligen Versuch.
 
-## Legende
+* * *
+
+#### Grundpraktikum - Gruppen
 
 | Nr | Gruppenmitglieder  <img width=400/>                                                 | <img width=20/> Jahr <img width=20/>    |
 |:--:|:------------------------------------------------------------------------------------|:---------:|
 | 1  | Charlotte Geiger, Leonhard Schatt, [Manuel Lippert](https://github.com/ManeLippert) | 2020-2021 |
 | 2  | Anna-Maria Pleyer, Dominik Müller, Paul Schwanitz                                   | 2020-2021 |
-| 3  | Dominik Sieder, Markus Sesselmann                                                   |   2010    |
-| 4  | Armin Guckenberger, Markus Sesselmann                                               |   2010    |
 
 ## Versuche
 
@@ -27,6 +23,8 @@ Die Auswertungen dienen zur **Hilfe** und sollen nicht die Eigenleistung erleich
 | KRE     | Kreisel                                                                             | [1](/Versuch_KRE/Charlotte_Leo_Manuel/Versuch_KRE.pdf), [2](/Versuch_KRE/Anna-Maria_Dominik_Paul/Master.pdf) |
 | POL     | Polarisation , Brewsterwinkel und Miestreung                                        | [1](/Versuch_POL/Charlotte_Leo_Manuel/Versuch_POL.pdf) |
 | SP      | Elektromagnetisches Spektrum                                                        | [1](/Versuch_SP/Charlotte_Leo_Manuel/Versuch_SP.pdf)  |
+
+* * *
 
 ## Schluss
 
